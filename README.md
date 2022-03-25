@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # vue-portfolio
 
 ## Project setup
@@ -25,4 +24,3 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 =======
 # vue-portfolio
->>>>>>> 57c9b2519173c52c084764003367f37791b776c5
